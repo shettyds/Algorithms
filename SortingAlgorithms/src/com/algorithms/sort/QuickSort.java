@@ -1,4 +1,4 @@
-package com.test.algorithms.sort;
+package com.algorithms.sort;
 
 public class QuickSort {
     
